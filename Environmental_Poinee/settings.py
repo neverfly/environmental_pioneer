@@ -24,7 +24,7 @@ SECRET_KEY = 'ibza1@8j%zop=c@60-f$%9-it7$5)*zdj14$_#z-@vpnyaxkq='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['47.94.8.213', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
